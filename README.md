@@ -4,7 +4,7 @@ I'm **HulksmashJaxon10**, a Roblox-based developer. I focus in Luau and UI devel
 
 </div>
 > [!NOTE] 
-I can be very stupid 
+> I can be very stupid 
 
 #
 
