@@ -1,13 +1,6 @@
-## Hi there 👋
 
-I'm **HulksmashJaxon10**, a Roblox-based developer. I focus in Luau and UI development. You wont see me on here often. If you do, make sure to say hi!
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/104330093" width="120" height="120" alt="me" style="border-radius:50% />
+</p>
 
----
-</div>
-
-> [!NOTE] 
-> I can be very stupid. I usually am. Please be cautious.
----
-</div>
-
-![alt text](https://i.ibb.co/933nzCGy/rblx-lrc-menu.png)
+<h1>Hi</h1>
