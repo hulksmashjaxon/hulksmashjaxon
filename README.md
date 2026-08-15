@@ -4,7 +4,7 @@
 Avid programmer in multiple languages, I make lots of backend services/Discord bots
 
   
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hulksmashjaxon&langs_count=4)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hulksmashjaxon&langs_count=6)
 
 </div>
 
