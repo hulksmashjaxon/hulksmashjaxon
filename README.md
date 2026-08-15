@@ -12,6 +12,6 @@ Avid programmer in multiple languages, I make lots of backend services/Discord b
 
 ## My (public and important) Repos
 
-[![JavaDiscordBot](https://github-stats-extended.vercel.app/api/pin/?username=hulksmashjaxon&repo=Java-Discord-Bot)](https://google.com) <img src="https://placeholder.com" width="1" height="0" alt="" /> [![Restful](https://github-stats-extended.vercel.app/api/pin/?username=hulksmashjaxon&repo=java-springboot-test-RESTfulAPI)](https://google.com)
+[![JavaDiscordBot](https://github-stats-extended.vercel.app/api/pin/?username=hulksmashjaxon&repo=Java-Discord-Bot)](https://github.com/hulksmashjaxon/Java-Discord-Bot) <img src="https://placeholder.com" width="1" height="0" alt="" /> [![Restful](https://github-stats-extended.vercel.app/api/pin/?username=hulksmashjaxon&repo=java-springboot-test-RESTfulAPI)](https://github.com/hulksmashjaxon/java-springboot-test-RESTfulAPI)
   
 </div>
